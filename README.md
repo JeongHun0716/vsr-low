@@ -11,7 +11,7 @@ In the following table, we provide all end-to-end trained models mentioned in ou
 <summary>mTEDx It</summary>
 
 | Model               | Training Datasets  | Training data (h)  |  WER [%]   |    MD5            |
-|---------------------------------------|:------------------:|:----------:|:------------------------:|
+|-----------------------------|:----------|:------------------:|:----------:|:------------------------:|
 | [`vsr_trlrs3_23h_base.pth`] |        23            |        23           |    96.6    | 50c88  |
 | [`vsr_trlrs3_base.pth`]  |        23               |        438          |    36.7    | ea3ec  |
 | [`vsr_trlrs3vox2_base.pth`]   |        23       |        1759         |    25.0    | 0a126  |
