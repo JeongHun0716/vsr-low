@@ -4,7 +4,7 @@ Visual Speech Recognition For Low-Resource Languages with Automatic Labels
 
 ## Models
 
-In the following table, we provide all end-to-end trained models mentioned in our paper:
+In the following table, we will provide all end-to-end trained models mentioned in our paper:
 
 
 <details open>
