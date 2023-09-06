@@ -8,15 +8,15 @@ In the following table, we provide all end-to-end trained models mentioned in ou
 
 <details open>
 
-<summary>LRS3</summary>
+<summary>mTEDx It</summary>
 
-| Model                                 | Training data (h)  |  WER [%]   |    MD5            |
+| Model               | Training Datasets  | Training data (h)  |  WER [%]   |    MD5            |
 |---------------------------------------|:------------------:|:----------:|:------------------------:|
-| [`vsr_trlrs3_23h_base.pth`]            |        23           |    96.6    | 50c88  |
-| [`vsr_trlrs3_base.pth`]                |        438          |    36.7    | ea3ec  |
-| [`vsr_trlrs3vox2_base.pth`]          |        1759         |    25.0    | 0a126  |
+| [`vsr_trlrs3_23h_base.pth`] |        23            |        23           |    96.6    | 50c88  |
+| [`vsr_trlrs3_base.pth`]  |        23               |        438          |    36.7    | ea3ec  |
+| [`vsr_trlrs3vox2_base.pth`]   |        23       |        1759         |    25.0    | 0a126  |
 | [`vsr_trlrwlrs2lrs3vox2avsp_base.pth`]  |        3448         |    20.3    | a896f  |
-| [`asr_trlrs3_23h_base.pth`]         |        23           |    72.5    | 87d45  |
-| [`asr_trlrs3_base.pth`]              |        438          |    2.04    | 4fa87  |
-| [`asr_trlrs3vox2_base.pth`]          |        1759         |    1.07    | 7beab  |
-| [`asr_trlrwlrs2lrs3vox2avsp_base.pth`] |        3448         |    0.99    | dc759  |
+| [`asr_trlrs3_23h_base.pth`]  |        23        |        23           |    72.5    | 87d45  |
+| [`asr_trlrs3_base.pth`]    |        23          |        438          |    2.04    | 4fa87  |
+| [`asr_trlrs3vox2_base.pth`]  |        23         |        1759         |    1.07    | 7beab  |
+| [`asr_trlrwlrs2lrs3vox2avsp_base.pth`] |        23 |        3448         |    0.99    | dc759  |
