@@ -1,12 +1,12 @@
-## Statistics of Dataset for French VSR
+## Statistics of Dataset for Spanish VSR
 
 | Dataset        | split  | Duration (h)  |  Human-labeled # of Video      |   Human-labeled # of Video      |
 |--------------|:----------|:------------------:|:-----------------:|:-----------------:|
-| mTEDx |       train        |        85           |    58,426    | -    |
-| mTEDx |       valid        |         0.4         |    235    |   -    | 
-| mTEDx |       test        |          0.3       |    333    |  -    | 
-| VoxCeleb2 |       train        |        124           |    -    |   66,943    | 
-| AVSpeech |       train        |        122           |    -    |  69,020    | 
+| mTEDx |       train        |        72           |    44,532    | -    |
+| mTEDx |       valid        |         0.65         |    403    |   -    | 
+| mTEDx |       test        |          0.45       |    302    |  -    | 
+| VoxCeleb2 |       train        |        42           |    -    |   22,682    | 
+| AVSpeech |       train        |        270           |    -    |  151,173    | 
 
 
 ## Structure of txt files of Multilingual TEDx (mTEDx) dataset
