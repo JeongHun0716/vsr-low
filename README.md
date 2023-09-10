@@ -7,7 +7,7 @@ After the review process, we will provide all VSR models, training code, and inf
 
 We release the automatic labels of the four low-resource languages([French](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/tree/main/French), [Italian](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/tree/main/Italian), [Portuguese](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/tree/main/Portuguese), and [Spanish](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/tree/main/Spanish)). 
 
-To generate the automatic labels, we identify the languages of all videos in VoxCeleb2 and AVSpeech, and then the transcription (automatic labels) is produced by the pretrained ASR model. In this project, we use a "whisper/large-v2" model to conduct these processes.  
+To generate the automatic labels, we identify the languages of all videos in VoxCeleb2 and AVSpeech, and then the transcription (automatic labels) is produced by the pretrained ASR model. In this project, we use a "[whisper/large-v2](https://github.com/openai/whisper)" model to conduct these processes.  
 
 ## Dataset Prepare
 Multilingual TEDx Dataset(mTEDx)
