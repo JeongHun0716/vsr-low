@@ -14,7 +14,7 @@ The original videos downloaded from the mTEDx website are provided as a form of 
 
 The format of *.txt file is as follows:
 
-line i : Video name (\t) start_sec (\t)  enc_sec (\t)  transcription
+line i : Video name emsp start_sec (\t)  enc_sec (\t)  transcription
 
 (e.g., line 1 : 0u7tTptBo9I_0004	42.91	45.26	et pourtant on vient tous de locéan)
 
