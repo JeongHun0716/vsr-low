@@ -9,17 +9,14 @@ We release the automatic labels of the four low-resource languages([French](http
 
 To generate the automatic labels, we identify the languages of all videos in VoxCeleb2 and AVSpeech, and then the transcription (automatic labels) is produced by the pretrained ASR model. In this project, we use a "[whisper/large-v2](https://github.com/openai/whisper)" model to conduct these processes.  
 
-## Dataset Prepare
-Multilingual TEDx Dataset(mTEDx)
-  1. Download the mTEDx dataset from the [mTEDx link](https://www.openslr.org/100) of offical website.
-  2.  
+## Dataset preparation
+Multilingual TEDx(mTEDx), VoxCeleb2, and AVSpeech Datasets. 
+  1. Download the mTEDx dataset from the [mTEDx link](https://www.openslr.org/100) of the official website.
+  2. Download the VoxCeleb2 dataset from the [VoxCeleb2 link](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html) of the official website.
+  3. Download the AVSpeech dataset from the [AVSpeech link](https://looking-to-listen.github.io/avspeech/) of the official website.
 
-VoxCeleb2
-
-
-
-AVSpeech
-
+When you are interested in training the model for a specific target language VSR, we recommend using language-detected files provided in this project instead of video lists of the AVSpeech dataset provided on the official website to reduce the dataset preparation time. Because of the huge amount of AVSpeech dataset, it takes a lot of time.
+  
 ## Training the Model
 
 
