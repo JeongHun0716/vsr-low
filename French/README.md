@@ -3,8 +3,8 @@
 
 | Dataset        | split  | Duration (h)  |  Number of videos      |
 |--------------|:----------|:------------------:|:-----------------:|
-| mTEDx |       train        |        85           |    65.25    |
-| mTEDx |       valid        |        85           |    65.25    | 
-| mTEDx |       test        |        85           |    65.25    | 
-| VoxCeleb2 |       train        |        85           |    65.25    | 
-| AVSpeech |       train        |        85           |    65.25    | 
+| mTEDx |       train        |        85           |    58,426    |
+| mTEDx |       valid        |         0.4         |    235    | 
+| mTEDx |       test        |          0.3       |    333    | 
+| VoxCeleb2 |       train        |        124           |    66,943    | 
+| AVSpeech |       train        |        122           |    69,020    | 
