@@ -14,9 +14,9 @@ The original videos downloaded from the mTEDx website are provided as a form of 
 
 The format of *.txt file is as follows:
 
-line i : Video name &emsp; start_sec (\t)  enc_sec (\t)  transcription
+line i : Video name &emsp; start_sec &emsp;  enc_sec &emsp;  transcription
 
-(e.g., line 1 : 0u7tTptBo9I_0004	42.91	45.26	et pourtant on vient tous de locéan)
+(e.g., line 1 : 0u7tTptBo9I_0004&emsp;	42.91&emsp;	45.26&emsp;	et pourtant on vient tous de locéan)
 
 
 ## Structure of txt files of VoxCeleb2 dataset
@@ -24,6 +24,6 @@ The original videos downloaded from the VoxCeleb2 are provided as a form of alre
 
 The format of *.txt file is as follows:
 
-line i : Name of Video (\t) transcription
+line i : Video name &emsp; transcription
 
-(e.g., line 1 : test/mp4/id03030/kkzpqpAxGJ4/00224.mp4	quand j'étais plus jeune je n'avais pas la fondation qui me donnait l'argent malheureusement)
+(e.g., line 1 : test/mp4/id03030/kkzpqpAxGJ4/00224.mp4&emsp;	quand j'étais plus jeune je n'avais pas la fondation qui me donnait l'argent malheureusement)
