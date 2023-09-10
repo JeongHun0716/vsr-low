@@ -16,6 +16,10 @@ Multilingual TEDx(mTEDx), VoxCeleb2, and AVSpeech Datasets.
   3. Download the AVSpeech dataset from the [AVSpeech link](https://looking-to-listen.github.io/avspeech/) of the official website.
 
 When you are interested in training the model for a specific target language VSR, we recommend using language-detected files (e.g., [link](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/blob/main/French/AVSpeech-Fr/train.txt) provided in this project instead of video lists of the AVSpeech dataset provided on the official website to reduce the dataset preparation time. Because of the huge amount of AVSpeech dataset, it takes a lot of time.
+
+## Preprocessing 
+After downloading the datasets, you should detect the facial landmarks of all videos and crop the mouth region using these facial landmarks. We recommend you preprocess the videos following [Visual Speech Recognition for Multiple Languages](https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages).  
+
   
 ## Training the Model
 The training code is available soon.
