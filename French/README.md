@@ -1,6 +1,5 @@
 ## Statistics of French videos
 
-<details open>
 
 <summary>mTEDx Fr</summary>
 
