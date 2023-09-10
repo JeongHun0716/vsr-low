@@ -3,6 +3,8 @@
 
 | Dataset        | split  | Duration (h)  |  Number of videos      |
 |--------------|:----------|:------------------:|:-----------------:|
-| best_ckpt.pt |       mTEDx        |        85           |    65.25    | 
-| best_ckpt.pt |        mTEDx + VoxCeleb2            |        209          |    60.61    | 
-| best_ckpt.pt |        mTEDx + VoxCeleb2 + AVSpeech       |        331         |    58.30    |
+| mTEDx |       train        |        85           |    65.25    |
+| mTEDx |       valid        |        85           |    65.25    | 
+| mTEDx |       test        |        85           |    65.25    | 
+| VoxCeleb2 |       train        |        85           |    65.25    | 
+| AVSpeech |       train        |        85           |    65.25    | 
