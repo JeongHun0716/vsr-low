@@ -1,7 +1,7 @@
 ## Statistics of French videos
 
 
-| Dataset        | split  | Duration (h)  |  Human-labeled # of Video      |
+| Dataset        | split  | Duration (h)  |  Human-labeled // # of Video      |
 |--------------|:----------|:------------------:|:-----------------:|
 | mTEDx |       train        |        85           |    58,426    |
 | mTEDx |       valid        |         0.4         |    235    | 
