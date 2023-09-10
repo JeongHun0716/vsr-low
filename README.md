@@ -18,12 +18,11 @@ Multilingual TEDx(mTEDx), VoxCeleb2, and AVSpeech Datasets.
 When you are interested in training the model for a specific target language VSR, we recommend using language-detected files (e.g., [link](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/blob/main/French/AVSpeech-Fr/train.txt) provided in this project instead of video lists of the AVSpeech dataset provided on the official website to reduce the dataset preparation time. Because of the huge amount of AVSpeech dataset, it takes a lot of time.
   
 ## Training the Model
-
+The training code is available soon.
 
 
 ## Inference
-
-The code is avaiable soon.
+The inference code is available soon.
 
 
 ## Models
