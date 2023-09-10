@@ -11,7 +11,8 @@ To generate the automatic labels, we identify the languages of all videos in Vox
 
 ## Dataset Prepare
 Multilingual TEDx Dataset(mTEDx)
-
+  1. Download the mTEDx dataset from the [mTEDx link](https://www.openslr.org/100) of offical website.
+  2.  
 
 VoxCeleb2
 
