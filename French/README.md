@@ -1,7 +1,7 @@
 ## Statistics of French videos
 
 
-<summary>mTEDx Fr</summary>
+## mTEDx Fr
 
 | Model         | Training Datasets  | Training data (h)  |  WER [%]   |    Target Languages     |
 |--------------|:----------|:------------------:|:----------:|:------------------------:|
