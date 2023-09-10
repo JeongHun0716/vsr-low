@@ -26,4 +26,4 @@ The format of *.txt file is as follows:
 
 line i : Video name &emsp; transcription
 
-(e.g., line 1 : test/mp4/id03030/kkzpqpAxGJ4/00224.mp4&emsp;	quand j'étais plus jeune je n'avais pas la fondation qui me donnait l'argent malheureusement)
+(e.g., line 4 : test/mp4/id03030/kkzpqpAxGJ4/00228.mp4&emsp;	il faut passer à autre chose donc les études sont là pour nous assurer d'un)
