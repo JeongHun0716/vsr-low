@@ -1,8 +1,6 @@
 # Visual-Speech-Recognition-for-Low-Resource-Languages
-Visual Speech Recognition For Low-Resource Languages with Automatic Labels
+Visual Speech Recognition For Low-Resource Languages with Automatic Labels From Whisper Model
 
-
-## Models
 This project is still under review process. 
 
 After the review process, we will provide all VSR models, training code, and inference code for low-resource languages.
@@ -11,7 +9,7 @@ We release the automatic labels of the four low-resource languages([French](http
 
 To generate the automatic labels, we identify the languages of all videos in VoxCeleb2 and AVSpeech, and then the transcription (automatic labels) is produced by the pretrained ASR model. In this project, we use a "whisper/large-v2" model to conduct these processes.  
 
-
+## Models
 
 <details open>
 
