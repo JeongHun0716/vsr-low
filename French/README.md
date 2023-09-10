@@ -1,5 +1,4 @@
-## Statistics of French videos
-
+## Statistics of Dataset for French VSR
 
 | Dataset        | split  | Duration (h)  |  Human-labeled # of Video      |   Human-labeled # of Video      |
 |--------------|:----------|:------------------:|:-----------------:|:-----------------:|
