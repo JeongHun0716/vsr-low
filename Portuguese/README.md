@@ -3,8 +3,8 @@
 | Dataset        | split  | Duration (h)  |  Human-labeled # of Video      |   Human-labeled # of Video      |
 |--------------|:----------|:------------------:|:-----------------:|:-----------------:|
 | mTEDx |       train        |        82           |    52,058    | -    |
-| mTEDx |       valid        |         0.4         |    235    |   -    | 
-| mTEDx |       test        |          0.3       |    333    |  -    | 
+| mTEDx |       valid        |         0.7         |    532    |   -    | 
+| mTEDx |       test        |          0.56       |    401    |  -    | 
 | VoxCeleb2 |       train        |        9           |    -    |   4,843    | 
 | AVSpeech |       train        |        329           |    -    |  176,601    | 
 
