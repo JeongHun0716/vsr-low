@@ -9,6 +9,17 @@ We release the automatic labels of the four low-resource languages([French](http
 
 To generate the automatic labels, we identify the languages of all videos in VoxCeleb2 and AVSpeech, and then the transcription (automatic labels) is produced by the pretrained ASR model. In this project, we use a "whisper/large-v2" model to conduct these processes.  
 
+## Dataset Prepare
+Multilingual TEDx Dataset(mTEDx)
+
+
+VoxCeleb2
+
+
+
+AVSpeech
+
+
 ## Models
 
 <details open>
