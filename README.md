@@ -15,7 +15,7 @@ Multilingual TEDx(mTEDx), VoxCeleb2, and AVSpeech Datasets.
   2. Download the VoxCeleb2 dataset from the [VoxCeleb2 link](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html) of the official website.
   3. Download the AVSpeech dataset from the [AVSpeech link](https://looking-to-listen.github.io/avspeech/) of the official website.
 
-When you are interested in training the model for a specific target language VSR, we recommend using language-detected files provided in this project instead of video lists of the AVSpeech dataset provided on the official website to reduce the dataset preparation time. Because of the huge amount of AVSpeech dataset, it takes a lot of time.
+When you are interested in training the model for a specific target language VSR, we recommend using language-detected files (e.g., [link](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/blob/main/French/AVSpeech-Fr/train.txt) provided in this project instead of video lists of the AVSpeech dataset provided on the official website to reduce the dataset preparation time. Because of the huge amount of AVSpeech dataset, it takes a lot of time.
   
 ## Training the Model
 
