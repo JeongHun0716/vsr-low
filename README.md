@@ -20,6 +20,14 @@ VoxCeleb2
 
 AVSpeech
 
+## Training the Model
+
+
+
+## Inference
+
+The code is avaiable soon.
+
 
 ## Models
 
