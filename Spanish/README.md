@@ -16,7 +16,7 @@ The format of *.txt file is as follows:
 
 line i : Video name &emsp; start_sec &emsp;  enc_sec &emsp;  transcription
 
-(e.g., line 1 : 0u7tTptBo9I_0004&emsp;	42.91&emsp;	45.26&emsp;	et pourtant on vient tous de locéan)
+(e.g., line 2 : ninrJokK-oA_0247.mp4&emsp;	685.96&emsp;	687.01&emsp;	dejad que os lo muestre
 
 
 ## Structure of txt files of VoxCeleb2 dataset
@@ -26,14 +26,14 @@ The format of *.txt file is as follows:
 
 line i : Video name &emsp; transcription
 
-(e.g., line 4 : test/mp4/id03030/kkzpqpAxGJ4/00228.mp4&emsp;	il faut passer à autre chose donc les études sont là pour nous assurer d'un)
+(e.g., line 1 : test/mp4/id03127/TtFfWu9vKp8/00200.mp4&emsp;	muy concentrada muy conpenetrada en mi trabajo)
 
 
-## Structure of txt files of Multilingual TEDx (mTEDx) dataset
+## Structure of txt files of AVSpeech dataset
 You can download the trimmed video from the AVSpeech CSV files provided by the official website. So, you can use the trimmed videos to train the VSR model using only the provided automatic labels. 
 
 The format of *.txt file is as follows:
 
 line i : Video name_start sec_end sec &emsp;  transcription
 
-(e.g., line 2 : enSzPLXxw8I_115.715600_119.986533.mp4 &emsp;	le rat nommera les tortues raphaël donatello leonardo et michelangelo)
+(e.g., line 2 : 5kFce3iHPes_196.432567_199.432567.mp4&emsp;	use live es una herramienta que ya habíamos visto en otros teléfonos)
