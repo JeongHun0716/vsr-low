@@ -16,7 +16,7 @@ The format of *.txt file is as follows:
 
 line i : Video name &emsp; start_sec &emsp;  enc_sec &emsp;  transcription
 
-(e.g., line 1 : 0u7tTptBo9I_0004&emsp;	42.91&emsp;	45.26&emsp;	et pourtant on vient tous de locéan)
+(e.g., line 3 : htIYaFDjIJI_0024.mp4&emsp;	201.16&emsp;	202.99&emsp;	il pattern è sempre lo stesso)
 
 
 ## Structure of txt files of VoxCeleb2 dataset
@@ -26,7 +26,7 @@ The format of *.txt file is as follows:
 
 line i : Video name &emsp; transcription
 
-(e.g., line 4 : test/mp4/id03030/kkzpqpAxGJ4/00228.mp4&emsp;	il faut passer à autre chose donc les études sont là pour nous assurer d'un)
+(e.g., line 3 : dev/mp4/id08977/3ap0QSyN6Vc/00027.mp4&emsp;	gli era detto nel momento in cui gli annunciava che sarebbe andato a morire)
 
 
 ## Structure of txt files of Multilingual TEDx (mTEDx) dataset
@@ -36,4 +36,4 @@ The format of *.txt file is as follows:
 
 line i : Video name_start sec_end sec &emsp;  transcription
 
-(e.g., line 2 : enSzPLXxw8I_115.715600_119.986533.mp4 &emsp;	le rat nommera les tortues raphaël donatello leonardo et michelangelo)
+(e.g., line 7 : mziTtu17RK8_206.200000_210.000000.mp4&emsp;	soprattutto in un ambito di pilotaggio di un aeromobile)
