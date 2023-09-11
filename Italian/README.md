@@ -29,7 +29,7 @@ line i : Video name &emsp; transcription
 (e.g., line 3 : dev/mp4/id08977/3ap0QSyN6Vc/00027.mp4&emsp;	gli era detto nel momento in cui gli annunciava che sarebbe andato a morire)
 
 
-## Structure of txt files of Multilingual TEDx (mTEDx) dataset
+## Structure of txt files of AVSpeech dataset
 You can download the trimmed video from the AVSpeech CSV files provided by the official website. So, you can use the trimmed videos to train the VSR model using only the provided automatic labels. 
 
 The format of *.txt file is as follows:
