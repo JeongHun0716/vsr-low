@@ -1,9 +1,7 @@
 # Visual-Speech-Recognition-for-Low-Resource-Languages
 Visual Speech Recognition For Low-Resource Languages with Automatic Labels From Whisper Model
 
-This project is still under review process. 
-
-After the review process, we will provide all VSR models, training code, and inference code for low-resource languages.
+We will provide all VSR models, training code, and inference code for low-resource languages soon.
 
 We release the automatic labels of the four low-resource languages([French](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/tree/main/French), [Italian](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/tree/main/Italian), [Portuguese](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/tree/main/Portuguese), and [Spanish](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/tree/main/Spanish)). 
 
