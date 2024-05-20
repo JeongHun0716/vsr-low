@@ -7,6 +7,27 @@ We release the automatic labels of the four low-resource languages([French](http
 
 To generate the automatic labels, we identify the languages of all videos in VoxCeleb2 and AVSpeech, and then the transcription (automatic labels) is produced by the pretrained ASR model. In this project, we use a "[whisper/large-v2](https://github.com/openai/whisper)" model to conduct these processes.  
 
+## Environment Setup
+```bash
+conda create -n vsr-low python=3.9 -y
+conda activate vsr-low
+git clone https://github.com/JeongHun0716/vsr-low
+cd vsr-low
+```
+
+```bash
+pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
+git clone https://github.com/pytorch/fairseq
+cd fairseq
+pip install --editable ./
+pip install hydra-core==1.3.0
+pip install omegaconf==2.3.0
+pip install pytorch-lightning==1.5.10
+pip install sentencepiece
+pip install av
+```
+
+
 ## Dataset preparation
 Multilingual TEDx(mTEDx), VoxCeleb2, and AVSpeech Datasets. 
   1. Download the mTEDx dataset from the [mTEDx link](https://www.openslr.org/100) of the official website.
