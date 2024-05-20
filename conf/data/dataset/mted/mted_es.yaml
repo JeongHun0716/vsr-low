@@ -1,0 +1,7 @@
+defaults:
+  - _self_
+root: '/mnt/ssd3/Dataset/'
+label_dir: "/mnt/ssd3/Dataset/es_labels"
+train_file: "mTEDx_train.csv"
+val_file: "mTEDx_test.csv"
+test_file: "mTEDx_test.csv"

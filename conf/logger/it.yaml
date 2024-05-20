@@ -1,0 +1,7 @@
+_target_: pytorch_lightning.loggers.WandbLogger
+log_model: True
+name: ${exp_name}
+offline: False
+project: it
+mode: online
+entity: xx
