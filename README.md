@@ -93,3 +93,9 @@ The inference code is available soon.
 | best_ckpt.pt |       mTEDx        |        82           |    59.45    | Pt  |
 | best_ckpt.pt |        mTEDx + VoxCeleb2            |        91          |    58.82    | Pt  |
 | best_ckpt.pt |        mTEDx + VoxCeleb2 + AVSpeech       |        420         |    47.89    | Pt  |
+
+## Acknowledgement
+
+This project is based on the auto-avsr code. We would like to acknowledge and thank the original developers of auto-avsr for their contributions and the open-source community for making this work possible.
+
+auto-avsr Repository: [auto-avsr GitHub Repository](https://github.com/mpc001/auto_avsr)
