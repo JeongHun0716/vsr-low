@@ -1,5 +1,10 @@
-# Visual-Speech-Recognition-for-Low-Resource-Languages
-Visual Speech Recognition For Low-Resource Languages with Automatic Labels From Whisper Model
+# Visual Speech Recognition for Languages with Limited Labeled Data Using Automatic Labels from Whisper
+
+This repository contains the Official PyTorch implementation code of the following paper:
+
+> **Visual Speech Recognition for Languages with Limited Labeled Data Using Automatic Labels from Whisper**<br>  
+> \*Jeong Hun Yeo, \*Minsu Kim, Shinji Watanabe, and Yong Man Ro<br> 
+> [[Paper]](https://ieeexplore.ieee.org/abstract/document/10446720) 
 
 We will provide all VSR models, training code, and inference code for low-resource languages soon.
 
