@@ -51,10 +51,9 @@ The training code is available soon.
 
 
 ## Inference
-The inference code is available soon.
+Download the checkpoints from the below links and move them to the `pretrained_models` directory. You can evaluate the performance of each model using the scripts available in the `scripts` directory.
 
-
-## Models
+## Pretrained Models
 
 <details open>
 
@@ -100,8 +99,26 @@ The inference code is available soon.
 | [ckpt.pt](https://www.dropbox.com/scl/fi/s9n4aba92avvf6scdsl7t/pt_mted_vox_wer_58.8.pth?rlkey=q777mbgaphzm2vkr9wxij3hhf&st=2abb5z28&dl=0) |        mTEDx + VoxCeleb2            |        91          |    58.82    | Pt  |
 | [ckpt.pt](https://www.dropbox.com/scl/fi/c8wyurx379zhbebwxn763/pt_mted_vox_avs_wer_47.9.pth?rlkey=2h3o4xcazmx4si2347gbrxwkv&st=r8h5g2wf&dl=0) |        mTEDx + VoxCeleb2 + AVSpeech       |        420         |    47.89    | Pt  |
 
+
+## Citation
+If you find this work useful in your research, please cite the paper:
+
+```bibtex
+@inproceedings{yeo2024visual,
+  title={Visual Speech Recognition for Languages with Limited Labeled Data Using Automatic Labels from Whisper},
+  author={Yeo, Jeong Hun and Kim, Minsu and Watanabe, Shinji and Ro, Yong Man},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={10471--10475},
+  year={2024},
+  organization={IEEE}
+}
+```
+
+
 ## Acknowledgement
 
 This project is based on the auto-avsr code. We would like to acknowledge and thank the original developers of auto-avsr for their contributions and the open-source community for making this work possible.
 
 auto-avsr Repository: [auto-avsr GitHub Repository](https://github.com/mpc001/auto_avsr)
+
+
