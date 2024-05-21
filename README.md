@@ -6,7 +6,8 @@ This repository contains the Official PyTorch implementation code of the followi
 > \*Jeong Hun Yeo, \*Minsu Kim, Shinji Watanabe, and Yong Man Ro<br> 
 > [[Paper]](https://ieeexplore.ieee.org/abstract/document/10446720) 
 
-We will provide all VSR models, training code, and inference code for low-resource languages soon.
+<div align="center"><img width="60%" src="img/img.PNG?raw=true" /></div>
+
 
 We release the automatic labels of the four low-resource languages([French](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/tree/main/French), [Italian](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/tree/main/Italian), [Portuguese](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/tree/main/Portuguese), and [Spanish](https://github.com/JeongHun0716/Visual-Speech-Recognition-for-Low-Resource-Languages/tree/main/Spanish)). 
 
