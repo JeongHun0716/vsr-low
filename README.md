@@ -62,9 +62,9 @@ The inference code is available soon.
 
 | Model         | Training Datasets  | Training data (h)  |  WER [%]   |    Target Languages     |
 |--------------|:----------|:------------------:|:----------:|:------------------------:|
-| [Link](https://www.dropbox.com/scl/fi/oiptq2pxwv386v80ym4kk/fr_mted_wer_65.3.pth?rlkey=b6by808fog6xw1ofkvmpvj68s&st=6k5gmhsz&dl=0) |       mTEDx        |        85           |    65.25    | Fr  |
-| best_ckpt.pt |        mTEDx + VoxCeleb2            |        209          |    60.61    | Fr  |
-| best_ckpt.pt |        mTEDx + VoxCeleb2 + AVSpeech       |        331         |    58.30    | Fr  |
+| [ckpt.pt](https://www.dropbox.com/scl/fi/oiptq2pxwv386v80ym4kk/fr_mted_wer_65.3.pth?rlkey=b6by808fog6xw1ofkvmpvj68s&st=6k5gmhsz&dl=0) |       mTEDx        |        85           |    65.25    | Fr  |
+| [ckpt.pt](https://www.dropbox.com/scl/fi/pjhxyredi12bmz12ea8jl/fr_mted_vox_wer_60.6.pth?rlkey=nvsew9e3zc3vxdydk0nmund7k&st=sqkw3rl9&dl=0) |        mTEDx + VoxCeleb2            |        209          |    60.61    | Fr  |
+| [ckpt.pt](https://www.dropbox.com/scl/fi/6pzmsmmvx2fjrjlvx6gkr/fr_mted_vox_avs_wer_58.3.pth?rlkey=sfqbsxcrfplzsumroyarw0e43&st=rv4ull1x&dl=0) |        mTEDx + VoxCeleb2 + AVSpeech       |        331         |    58.30    | Fr  |
 
 
 
@@ -74,9 +74,9 @@ The inference code is available soon.
 
 | Model         | Training Datasets  | Training data (h)  |  WER [%]   |    Target Languages     |
 |--------------|:----------|:------------------:|:----------:|:------------------------:|
-| best_ckpt.pt |       mTEDx        |        46           |    60.40    | It  |
-| best_ckpt.pt |        mTEDx + VoxCeleb2            |        84          |    56.48    | It  |
-| best_ckpt.pt |        mTEDx + VoxCeleb2 + AVSpeech       |        152         |    51.79    | It  |
+| [ckpt.pt](https://www.dropbox.com/scl/fi/fk5pvmyfo2fek19ama9iw/it_mted_wer_60.4.pth?rlkey=76bb83e0p42o5v7bij3sddwmf&st=elxnmxz0&dl=0) |       mTEDx        |        46           |    60.40    | It  |
+| [ckpt.pt](https://www.dropbox.com/scl/fi/1x257dhxhdti7esrm29p1/it_mted_vox_wer_56.5.pth?rlkey=r1l0h6cw10gg8i5e82bqcnok9&st=2lc9areg&dl=0) |        mTEDx + VoxCeleb2            |        84          |    56.48    | It  |
+| [ckpt.pt](https://www.dropbox.com/scl/fi/609u2o3ulc35ziceoxpqs/it_mted_vox_avs_wer_51.8.pth?rlkey=hqmczohabyo2ixij92w2podj0&st=scisjf0t&dl=0) |        mTEDx + VoxCeleb2 + AVSpeech       |        152         |    51.79    | It  |
 
 <details open>
 
@@ -84,9 +84,9 @@ The inference code is available soon.
 
 | Model         | Training Datasets  | Training data (h)  |  WER [%]   |    Target Languages     |
 |--------------|:----------|:------------------:|:----------:|:------------------------:|
-| best_ckpt.pt |       mTEDx        |        72           |    59.91    | Es  |
-| best_ckpt.pt |        mTEDx + VoxCeleb2            |        114          |    54.05    | Es  |
-| best_ckpt.pt |        mTEDx + VoxCeleb2 + AVSpeech       |        384         |    45.71    | Es  |
+| [ckpt.pt](https://www.dropbox.com/scl/fi/sb3p26t21fi7h38u1uxrk/es_mted_wer_59.9.pth?rlkey=rd4hfffu6gqg3oiswvqu8585k&st=zkpmpn1j&dl=0) |       mTEDx        |        72           |    59.91    | Es  |
+| [ckpt.pt](https://www.dropbox.com/scl/fi/c9avezj9a2k1usdeb3xta/es_mted_vox_wer_54.1.pth?rlkey=agra6ao6563pyabwe24888geg&st=5eb0eug8&dl=0) |        mTEDx + VoxCeleb2            |        114          |    54.05    | Es  |
+| [ckpt.pt](https://www.dropbox.com/scl/fi/tzddk1nl8yylirq4ja79j/es_mted_vox_avs_wer_45.7.pth?rlkey=ldml1kaexags7zm2jplw7j4jk&st=d7tyezgf&dl=0) |        mTEDx + VoxCeleb2 + AVSpeech       |        384         |    45.71    | Es  |
 
 
 
@@ -96,9 +96,9 @@ The inference code is available soon.
 
 | Model         | Training Datasets  | Training data (h)  |  WER [%]   |    Target Languages     |
 |--------------|:----------|:------------------:|:----------:|:------------------------:|
-| best_ckpt.pt |       mTEDx        |        82           |    59.45    | Pt  |
-| best_ckpt.pt |        mTEDx + VoxCeleb2            |        91          |    58.82    | Pt  |
-| best_ckpt.pt |        mTEDx + VoxCeleb2 + AVSpeech       |        420         |    47.89    | Pt  |
+| [ckpt.pt](https://www.dropbox.com/scl/fi/kzvzk99061b4yt0ccmuzd/pt_mted_wer_59.5.pth?rlkey=ncm145vzy2vp02eaoij1wncy5&st=40qouw20&dl=0) |       mTEDx        |        82           |    59.45    | Pt  |
+| [ckpt.pt](https://www.dropbox.com/scl/fi/s9n4aba92avvf6scdsl7t/pt_mted_vox_wer_58.8.pth?rlkey=q777mbgaphzm2vkr9wxij3hhf&st=2abb5z28&dl=0) |        mTEDx + VoxCeleb2            |        91          |    58.82    | Pt  |
+| [ckpt.pt](https://www.dropbox.com/scl/fi/c8wyurx379zhbebwxn763/pt_mted_vox_avs_wer_47.9.pth?rlkey=2h3o4xcazmx4si2347gbrxwkv&st=r8h5g2wf&dl=0) |        mTEDx + VoxCeleb2 + AVSpeech       |        420         |    47.89    | Pt  |
 
 ## Acknowledgement
 
