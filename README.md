@@ -62,7 +62,7 @@ The inference code is available soon.
 
 | Model         | Training Datasets  | Training data (h)  |  WER [%]   |    Target Languages     |
 |--------------|:----------|:------------------:|:----------:|:------------------------:|
-| best_ckpt.pt |       mTEDx        |        85           |    65.25    | Fr  |
+| [Link](https://www.dropbox.com/scl/fi/oiptq2pxwv386v80ym4kk/fr_mted_wer_65.3.pth?rlkey=b6by808fog6xw1ofkvmpvj68s&st=6k5gmhsz&dl=0) |       mTEDx        |        85           |    65.25    | Fr  |
 | best_ckpt.pt |        mTEDx + VoxCeleb2            |        209          |    60.61    | Fr  |
 | best_ckpt.pt |        mTEDx + VoxCeleb2 + AVSpeech       |        331         |    58.30    | Fr  |
 
